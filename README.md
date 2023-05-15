@@ -1,7 +1,7 @@
 ![Blanco y Azul Bokeh Página Web Banner](https://github.com/StephxD/StephxD/assets/89234121/7e8770d2-dfb4-4413-b37c-6648c4db950c)
 
 
-<h1 align="center">Hi ![pata](https://github.com/StephxD/StephxD/assets/89234121/197a3378-188e-4de8-b3d3-2b5fd95fb193) , I'm Stephanie Oviedo González</h1>
+<h1 align="center">Hi 🐱‍💻 , I'm Stephanie Oviedo González</h1>
 <h3 align="center">Passionate about technology</h3>
 
 - 🔭I am currently looking for a company **In which to start**
