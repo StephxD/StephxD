@@ -6,7 +6,11 @@
 
 - 🔭Currently working as a computer analyst technician at the Centro de Electroquímica y energía química.
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🎓 I have a degree in **Computer Engineering**.
+
+- 📚 I’m also studying **Mechatronics Engineering**.
+
+- 🌱 I’m currently learning **Cybersecurity**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
