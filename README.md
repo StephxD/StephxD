@@ -4,9 +4,9 @@
 <h1 align="center">Hi 🐱‍💻 , I'm Stephanie Oviedo González</h1>
 <h3 align="center">Passionate about technology</h3>
 
-- 🔭I am currently looking for a company **In which to start**
+- 🔭Currently working as a computer analyst technician at the Centro de Electroquímica y energía química.
 
-- 🌱 I’m currently learning **Python, Cybersecurity, CCNA**
+- 🌱 I’m currently learning **Cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
